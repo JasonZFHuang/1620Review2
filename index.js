@@ -113,5 +113,5 @@ function moveBG(keyCode) {
     }
 
     background.style.backgroundPosition = backgroundH + "px " + backgroundV + "px";
-    background.style.height = backgroundHeight + "px"
+    background.style.height = backgroundHeight + "px";
 }
